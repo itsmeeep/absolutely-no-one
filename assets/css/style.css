@@ -252,7 +252,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #02AB86;
 }
 
 .mobile-nav-active {
@@ -346,6 +346,10 @@ h6 {
     margin-top: 10px;
     font-size: 20px;
     line-height: 24px;
+  }
+
+  #hero::before {
+    background: rgba(255, 255, 255, 0.8);
   }
 }
 
